@@ -1,76 +1,76 @@
-# 💖 Anniversary 2.0 Website
+ Birthday Surprise Website
+Celebrate a special birthday in style 🎉
+This is a beautifully crafted Birthday Surprise Website with elegant UI, smooth animations, background music, a fun mini-game, and heartfelt messages — turning a simple “Happy Birthday” into a memorable digital surprise 💖✨
 
-Celebrate love in style with Anniversary 2.0 - a beautifully crafted website experience. With elegant UI, romantic animations, and personalized messages, it transforms a simple ‘Happy Anniversary’ into a heartfelt and unforgettable moment✨❤️
+✨ Features
+🎵 Background music (starts after user interaction)
 
-> ⚠️ This is a **free version**, so some features like background music, game screen, some animations are not included. Premium version includes all features.
-> You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/anniversary-v2).
+🎮 Fun interactive mini-game
 
----
+💖 Smooth romantic / celebratory animations
 
-## 🛠 Tech Stack
+🖼️ Photo gallery with swipe support
 
-- ⚛️ **Next.js** – React Framework for building fast UI
-- 🎨 **Tailwind CSS** – For modern and responsive styling
-- 🎞️ **Framer-motion** – Smooth entrance and fade animations
-- 🖼️ **Keen-slider** – For smooth image/cards slideshow
+💌 Personal birthday message reveal
 
----
+📱 Fully responsive (mobile & desktop friendly)
 
-## 🖥 Local Setup
+🛠 Tech Stack
+⚛️ Next.js – React framework for fast & modern UI
 
-To run this project locally, follow these steps:
+🎨 Tailwind CSS – Clean, responsive styling
 
-```bash
+🎞️ Framer Motion – Smooth animations & transitions
+
+🖼️ Keen Slider – Elegant image carousel
+
+🖥 Local Setup
+To run this project locally:
+
 # Clone the repository
-git clone https://github.com/Anuj579/anniversary-site-v2.git
+git clone https://github.com/SinthujanCoder/biethday-site-v1-main.git
 
 # Navigate into the folder
-cd anniversary-site-v2
+cd biethday-site-v1-main
 
 # Install dependencies
 npm install
 
 # Start the development server
 npm run dev
-```
+Then open 👉 http://localhost:3000 in your browser 🎉
 
-Then open [http://localhost:3000](http://localhost:3000) in your browser to explore the site.
+🔗 Connect With Me
+Follow me for creative web projects and surprise websites:
 
----
+📷 Instagram: @sinthujan_dev
 
-## 🔗 Social Media
+🐙 GitHub: SinthujanCoder
 
-Follow me for more emotional surprise websites and creative dev content:
+💼 LinkedIn: Ravirajan Sinthujan
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+⭐ Support
+If you like this project, please consider giving it a ⭐ on GitHub — it really helps 💖
+Thank you for checking it out!
 
----
+Made with care & creativity by
+Sinthujan – @sinthujan_dev
 
-## ⭐ Support
+⚠️ License & Usage
+Personal Use
+This project is intended for personal use only
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
-Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+You may customize it for your own birthday surprises or private use
 
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
-Even a small contribution helps me keep creating cute, emotional projects 💖
+Public redistribution or resale is not allowed
 
----
+Public Use
+If you want to showcase this project publicly (portfolio, website, video, etc.),
+proper credit is required:
 
-## ⚠️ License & Usage
+Birthday Website by @sinthujan_dev
+🎉 Final Note
+This project was built to create smiles, emotions, and unforgettable birthday moments 🎂💖
+Feel free to customize the content, images, music, and message to make it truly personal.
 
-### Free Code
-- This free version is strictly for **personal use only**.  
-- You **cannot** post, upload, or share this project online in any form (e.g., Instagram reels, YouTube videos, websites, or any public platform).  
-- Using this free code publicly is **prohibited**.
-- Any violation will be considered **copyright infringement**, and I reserve the right to report it.
-
-### Premium Code
-- You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/anniversary-v2)
-- The premium code can be used publicly **only if proper credit is given**:  
-  `Website idea & code by @anujbuilds`  
-- Without credit or without explicit permission, public use is **not allowed**.
+Happy coding & happy celebrating! 🎈✨
