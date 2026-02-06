@@ -7,7 +7,7 @@ import ScreenContainer from "../ScreenContainer"
 export default function MessageScreen() {
     const [showOverlay, setShowOverlay] = useState(false)
 
-    const romanticMessage = `My Dearest Cutiepiee 🎂💖,
+    const romanticMessage = `My Dearest Pappa 🎂💖,
 
 Today is not just another day — it’s the day the world became brighter because YOU were born.
 
